@@ -12,9 +12,9 @@ A web application designed for disease prediction using machine learning techniq
 - Utilizes machine learning models for accurate predictions.
 
 ## Datasets
-Diabetes dataset: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
-Heart Disease dataset: https://archive.ics.uci.edu/dataset/45/heart+disease 
-Parkinson's disease: https://www.kaggle.com/datasets/debasisdotcom/parkinson-disease-detection
+- Diabetes dataset: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+- Heart Disease dataset: https://archive.ics.uci.edu/dataset/45/heart+disease
+- Parkinson's disease: https://www.kaggle.com/datasets/debasisdotcom/parkinson-disease-detection
 
 ## Demo
 https://medipredict-kjm2jeytishbudabpwdr9v.streamlit.app/
